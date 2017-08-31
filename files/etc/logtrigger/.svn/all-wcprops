@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/16/trunk/files/etc/logtrigger
+END
+info.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/16/trunk/files/etc/logtrigger/info.sh
+END
+info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/files/etc/logtrigger/info.lua
+END
+ipblock.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/files/etc/logtrigger/ipblock.sh
+END
